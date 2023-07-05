@@ -21,6 +21,9 @@ function NavBar () {
             <li>
                 Contacto
             </li>
+            <li>
+                Probando ingreso
+            </li>
         </ul>
         </nav>
         
